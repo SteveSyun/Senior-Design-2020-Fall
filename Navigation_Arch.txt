@@ -1,0 +1,5 @@
+Since we are not start to build the bot yet, we are not sure what is bot's architecture
+
+For navigation models and architecture we will submitted after we figuring out the bot architectures
+
+It will have completed two models before sprint II 
