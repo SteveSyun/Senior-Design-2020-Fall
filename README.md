@@ -1,5 +1,13 @@
 # Senior-Design-2020-Fall
 Microsoft teams Description: Microsoft teams is an application for communication and collaboration platform that combines persistent workplace chat, video, meeting file storage, and application integration.
+
+
+
+
+
+
+
+
 Problem:
 because the pandemic by covid-19, all of our fully classes
 will be online. Using discord server for handling all students are not enough, so Microsoft teams will be the replacement for discord. soon student will be able to use Microsoft Team for meeting tutor and contact instructors, and TAs. Therefore to
